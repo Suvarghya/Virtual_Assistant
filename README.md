@@ -1,2 +1,2 @@
 # Virtual_Assistant
-This project is like a Virtual assistant like ALEXA or GOOGLE made with python.
+This is a Virtual assistant like ALEXA or GOOGLE made with python. Name of the assistant is JARVIS.
