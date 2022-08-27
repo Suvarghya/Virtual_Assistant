@@ -1,5 +1,6 @@
 # Virtual_Assistant
-This is a Virtual assistant like ALEXA or GOOGLE made with python. Name of the assistant is JARVIS.
+This is a Virtual assistant like ALEXA or GOOGLE made with python. Name of the assistant is JARVIS. 
+I used Virtual Studiocode (VS code) IDE for this project.
 
 What can this A.I. assistant(JARVIS) do for you?
   1. It can play music for you.
